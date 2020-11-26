@@ -1,6 +1,5 @@
 ---
 layout: default
-title: temp
 ---
 
 <div class="posts">
